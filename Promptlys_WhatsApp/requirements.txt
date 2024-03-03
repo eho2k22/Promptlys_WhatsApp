@@ -1,0 +1,7 @@
+flask
+python-dotenv
+openai
+supabase==0.7.1
+
+
+
